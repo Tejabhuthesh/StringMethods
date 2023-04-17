@@ -1,0 +1,9 @@
+<mvc:View controllerName="idstring.zstringmethods.controller.View2" xmlns:f="sap.ui.layout.form"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title1}" class="page2">
+        <content >
+
+        </content>
+    </Page>
+     </mvc:View>
